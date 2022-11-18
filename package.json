@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/unfold/styleable-draft-editor#readme",
   "devDependencies": {
-    "@storybook/react": "^5.2.5",
+    "@storybook/react": "^6.5.13",
     "@types/draft-js": "^0.10.37",
     "@types/jest": "^24.0.19",
     "draft-js": "^0.11.1",
